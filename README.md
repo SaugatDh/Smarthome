@@ -50,6 +50,15 @@ Once uploaded, the ESP32 will connect to your WiFi network and start its functio
 
 Contributions are welcome! Please feel free to open issues or submit pull requests.
 
+## Team Members
+
+This project was developed as a fourth-semester project by the following team members:
+
+*   Suman Basnet
+*   Saurav Adhikari
+*   Saugat Dhungana
+*   Nikesh Dhakal
+
 ## License
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
